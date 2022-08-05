@@ -1,0 +1,100 @@
+body{
+    background-image: url(img\ 16.jfif);
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+#head1{
+    text-align:center;
+    height: 50px;
+    width: 1225px;
+    font-size: 70px;
+    font-family: Calisto MT;
+    font-weight: bold;
+    color: white;
+}
+
+#main-div{
+    display: flex;
+      
+}
+
+#main-div div{
+    margin: 10px;
+}
+
+
+
+#div1{
+    height: 350px;
+    width: 540px;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+#div2{
+    height: 350px;
+    width: 540px;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.para1{
+    padding-top: 0px;
+    color: white;
+}
+
+#head2{
+    font-size: 50px;
+    color: white;
+}
+
+#div3{
+    /* border:1px solid black; */
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding: 10px;
+    height: 70px;
+    width: 1229px;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.para3{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.logo{
+    height: 50px;
+    align-content: center;
+}
+
+.img{
+    height: 40px;
+    width: 40px;
+}
+
+#div3 div{
+    margin: 0px;
+    padding: 10px;
+}
+
+.img{
+    height: 50px;
+    width: 60px;
+}
+
+span{
+    color: red;
+}
+
+#div3 a{
+    color: white;
+}

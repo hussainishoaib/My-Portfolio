@@ -1,0 +1,40 @@
+body{
+    background-image: url(img\ 16.jfif);
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+#head1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 75px;
+    color: white;
+}
+
+span{
+    color: red;
+}
+
+.img1{
+    height: 350px;
+    width: 300px;
+}
+
+.img2{
+    height: 350px;
+    width: 300px;
+}
+
+.img3{
+    height: 350px;
+    width: 300px;
+}
+
+#div1{
+    height: 1000px;
+    width: 1000px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 20px;
+    margin: 15px;
+}
